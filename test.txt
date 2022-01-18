@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C42E-B77A
+
+ Directory of C:\Users\AbhasGhosh\OneDrive - SYNAOS GmbH\Desktop\MyProject
+
+01/18/2022  10:43 AM    <DIR>          .
+01/18/2022  10:43 AM    <DIR>          ..
+01/18/2022  10:43 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  440,550,318,080 bytes free
